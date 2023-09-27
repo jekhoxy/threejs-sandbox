@@ -5,3 +5,10 @@
   text-align: center;
 }
 
+.scene {
+  width: 100%;
+}
+
+canvas {
+  width: 100vw;
+}
